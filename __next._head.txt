@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[46453,["/global-brokers-demo/_next/static/chunks/2yknbeldg4f8e.js","/global-brokers-demo/_next/static/chunks/1xugm2vkamk4l.js"],"ViewportBoundary"]
+3:I[46453,["/global-brokers-demo/_next/static/chunks/2yknbeldg4f8e.js","/global-brokers-demo/_next/static/chunks/1xugm2vkamk4l.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[29325,["/global-brokers-demo/_next/static/chunks/2yknbeldg4f8e.js","/global-brokers-demo/_next/static/chunks/1xugm2vkamk4l.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Global Brokers | Order Tracking Portal"}],["$","meta","1",{"name":"description","content":"Premium order tracking and management portal for Global Brokers textile trading operations."}],["$","link","2",{"rel":"icon","href":"/global-brokers-demo/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L5","3",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"UpgDEwZkbRoVyonpb9tcX"}
